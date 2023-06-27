@@ -6,4 +6,7 @@ public class DemoLearn {
 		System.out.println("Demo Test Learning");
 	}
 
+	public void main() {
+		System.out.println("malini method");
+	}
 }
